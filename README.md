@@ -6,9 +6,6 @@ Lessons learned: geojson erlaubt keine Definition von Kreisen, sondern abstrahie
 
 Direkt die Datei [geo-example.json](geo-example.json) anklicken um ein Rendering der Karte zu sehen.
 
-Das hier ist ein permalink (zeigt also eine potentiell ältere Version):
-https://github.com/gaerfield/test-geo-json/blob/be00b16bf7564728959f5698c68c8bcf2a6d75dd/geo-example.json
-
 ## Links
 
 * github docs bzgl. gists und [geojson bzw. topojson](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams#creating-geojson-and-topojson-maps)
